@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Rand
 
-## 🛠️ Skills
 
 ## 🛠️ Skills
 
